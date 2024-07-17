@@ -1,0 +1,1 @@
+{"name":"Local: formMedigits","url":"/home/beehyv/Projects/Codeforces/formMedigits.py","tests":[{"id":1719918950377,"input":"2\n8\n0 1 2 4 5 6 8 9\n1\n8\n","output":"6\n216\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/beehyv/Projects/Codeforces/formMedigits.py","group":"local","local":true}
